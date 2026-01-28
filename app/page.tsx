@@ -6,6 +6,9 @@ export default function Home() {
         <section>
           <h1>MISIÓN Y VISIÓN</h1>
         </section>
+        <section>
+          <h1>NOSOTROS</h1>
+      </section>
       </main>
     </div>
   );
