@@ -7,7 +7,10 @@ export default function Home() {
           <h1>MISIÓN Y VISIÓN</h1>
         </section>
         <section>
-          <h1>NOSOTROS</h1>
+          <h1>NOSOTROS</h1> 
+      </section>
+      <section>
+          <h1>NOSOTROS</h1> 
       </section>
       </main>
     </div>
